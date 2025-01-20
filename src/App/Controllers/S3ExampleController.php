@@ -1,4 +1,5 @@
-// New class that utilizes S3Service
+<?php
+
 namespace App\Controllers;
 
 use App\Services\S3Service;

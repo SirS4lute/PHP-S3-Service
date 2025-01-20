@@ -7,7 +7,7 @@ This project demonstrates a simple integration with AWS S3 using PHP. It provide
 ## 📂 Project Structure
 
 ```
-/my-php-project
+/PHP-S3-Service
  ├── /src
  │    └── /App
  │        ├── /Services

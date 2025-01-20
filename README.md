@@ -10,10 +10,10 @@ This project demonstrates a simple integration with AWS S3 using PHP. It provide
 /PHP-S3-Service
  ├── /src
  │    └── /App
- │        ├── /Services
- │        │    └── S3Service.php
- │        └── /Controllers
- │             └── S3ExampleController.php
+ |         └── /Controllers
+ │         |    └── S3ExampleController.php
+ │         ├── /Services
+ │              └── S3Service.php
  ├── .env
  ├── composer.json
  ├── composer.lock
